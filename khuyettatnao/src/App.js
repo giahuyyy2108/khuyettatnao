@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Gia Huy Dep trai
+          Tuan anh oc cac
         </a>
       </header>
     </div>
