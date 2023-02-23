@@ -15,7 +15,12 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          tay ninh ngu
+
+
+          Gia Huy Dep trai
+          minh tran bac ky cho 
+          tuan anh tay ninh 
+          daklak ngu
         </a>
       </header>
     </div>
