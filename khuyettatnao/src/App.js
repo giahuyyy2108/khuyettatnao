@@ -15,9 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-
-          Gia Huy Dep trai
-          minh tran bac ky cho 
+          tay ninh ngu
         </a>
       </header>
     </div>
